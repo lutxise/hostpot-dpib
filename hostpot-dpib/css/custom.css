@@ -1,0 +1,20 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+
+body {
+    background: white;
+    color: black;
+}
+
+canvas {
+    background-image:url(../img/background-dpib.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    filter: brightness(100%);
+    filter: opacity(100%);
+}
+.banner-image {
+    
+}
